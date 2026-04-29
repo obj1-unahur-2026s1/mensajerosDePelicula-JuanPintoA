@@ -1,6 +1,6 @@
 # Mensajeros de película
 
-### Ejercicio incremental: Polimorfismo - Colecciones - Colecciones con bloques 
+### Ejercicio incremental: Polimorfismo - Colecciones - Colecciones con bloques.
 
 ![](matrix.jpeg)
 
